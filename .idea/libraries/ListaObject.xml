@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ListaObject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Bibliotecas/ListaObject/out/artifacts/ListaObject_jar/ListaObject.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
